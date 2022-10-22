@@ -3,6 +3,8 @@
 # Dots
 Dots = D Object-oriented Type System.   Dots is a type system implemented in the C++ successor language called D, and this is its homepage (for now).
 
+## Note about
+
 ## Books
 1. This is a draft copy of (part of) Benjamin Pierce's first book:
 
@@ -11,6 +13,11 @@ Dots = D Object-oriented Type System.   Dots is a type system implemented in the
    If you want the real-deal and complete book, you'll have to purchase it,
    because Z-library's version is full of type-setting errors, to the point
    that it's unreadable.  Note to self: TODO - purchase the book :)
+   
+   Starting out, the implemations and exercises follow as closely as possible Benjamin Pierce's book.  Their book implemations are coded in OCaml.  We do our best to create D versions of them.  D's run-time speed should be somewhat if not much better than OCaml's, and that's what we're after.
+   
+   Why not try to implement a formal system from scratch, with no appeal to known implementations?  I've tried to about ten times already, and it's next to impossible.  There are practical reason's for doing a Type-theoretical approach.
+
 
 
 ## Why implement in D?
