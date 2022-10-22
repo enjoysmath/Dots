@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Daniel Donnelly",
+		"Jr."
+	],
+	"copyright": "Copyright © 2022, Daniel Donnelly, Jr.",
+	"dependencies": {
+		"pegged": "~>0.4.6"
+	},
+	"description": "First implementation exercise from Benjamin Pierce's \"Types and Programming Languages\" book, converted from OCaml over to the D programming language.",
+	"license": "MIT",
+	"name": "pierce-impl-exercise1"
+}

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{3728624E-D240-436F-9FA8-25EB624B4CB2}") = "pierce-impl-exercise1", ".dub/pierce-impl-exercise1.visualdproj", "{C44FD106-ECB3-4CC1-9736-AFCA812AA63B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B768ED6-6536-4143-8509-A2F70E072A54} = {3B768ED6-6536-4143-8509-A2F70E072A54}
+	EndProjectSection
+EndProject
+Project("{3728624E-D240-436F-9FA8-25EB624B4CB2}") = "pegged", ".dub/pegged.visualdproj", "{3B768ED6-6536-4143-8509-A2F70E072A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|x64 = debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44FD106-ECB3-4CC1-9736-AFCA812AA63B}.debug|x64.ActiveCfg = debug|x64
+		{C44FD106-ECB3-4CC1-9736-AFCA812AA63B}.debug|x64.Build.0 = debug|x64
+		{3B768ED6-6536-4143-8509-A2F70E072A54}.debug|x64.ActiveCfg = debug|x64
+		{3B768ED6-6536-4143-8509-A2F70E072A54}.debug|x64.Build.0 = debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
