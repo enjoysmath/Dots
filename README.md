@@ -3,7 +3,10 @@
 # Dots
 Dots = D Object-oriented Type System.   Dots is a type system implemented in the C++ successor language called D, and this is its homepage (for now).
 
-## Note about
+<br/>
+
+---
+
 
 ## Books
 1. This is a draft copy of (part of) Benjamin Pierce's first book:
