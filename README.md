@@ -4,8 +4,8 @@
 Dots = D Object-oriented Type System.   Dots is a type system implemented in the C++ successor language called D, and this is its homepage (for now).
 
 ## Books
-1. This is a draft copy of (part of) the first book:
-   (Pierce's "Type Systems for Programming Languages")[doc/pierce_book.pdf]
+1. This is a draft copy of (part of) Benjamin Pierce's first book:
+   ["Type Systems for Programming Languages"](doc/pierce_book.pdf)
    If you want the real-deal and complete book, you'll have to purchase it,
    because Z-library's version is full of type-setting errors, to the point
    that it's unreadable.  Note to self: TODO - purchase the book :)
