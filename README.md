@@ -5,6 +5,16 @@ Dots = D Object-oriented Type System.   Dots is a type system implemented in the
 
 
 
+## Why implement in D?
+1. It's as fast as C++ at run-time.
+2. It's garbage-collected, so no memory leaks or need for smart pointers.  
+3. It has an awesome PEG parser generator library called [Pegged](https://github.com/PhilippeSigaud/Pegged).
+4. It's easier to code in than C++, for example when using templates.
+5. It has a Visual Studio as well as a VS Code plugin. 
+6. I am familiar enough with it.
+7. D currently has no projects AFAIK in the type systems / formal verification / proof assistant niche, so the project can stand out in that regard.
+
+
 ## Tutorials
 (TODO)
 
