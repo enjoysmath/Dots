@@ -8,8 +8,8 @@ mixin(grammar(`
               Predecessor(Value) / IsZero(Value) / Value
       IfThenElse(T) < "if" T "then" T "else" T
       Successor(V) < "succ" V
-      Predecessor(V) < "pred" V
-      IsZero(V) < "iszero" V
+      Predecessor(V) < "pred" V    
+      IsZero(V) < "iszero" V     
       Value <- True / False / Zero
       True <- "true"
       False <- "false"

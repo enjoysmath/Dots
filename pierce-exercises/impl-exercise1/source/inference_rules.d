@@ -1,0 +1,2 @@
+module inference_rules;
+
