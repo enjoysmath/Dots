@@ -5,9 +5,6 @@ Dots = D Object-oriented Type System.   Dots is a type system implemented in the
 
 ---
 
-<br/>
-
-
 ## Books
 1. This is a draft copy of (part of) Benjamin Pierce's first book:
 
